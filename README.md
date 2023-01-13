@@ -11,7 +11,7 @@
 
 
 [![B站个人主页](https://img.shields.io/badge/bilibili-informational?style=flat&logo=bilibili&logoColor=white&color=00A1D6)](https://space.bilibili.com/351201307)
-[![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://markdown.com.cn)
+[![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://imcys.com)
 ![腾讯QQ](https://img.shields.io/badge/1250422131-informational?style=flat&logo=tencentqq&logoColor=white&color=EB1923)
 
 </div>
