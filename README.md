@@ -5,13 +5,6 @@
 ### 🚀 Android 开发工程师（实习中）
 
 *热爱开源 · 专注移动开发 · 全栈探索者*
-
-
-### 📬 联系我
-
-[![B站](https://img.shields.io/badge/哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/351201307)
-[![博客](https://img.shields.io/badge/个人博客-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://imcys.com)
-
 </div>
 
 
